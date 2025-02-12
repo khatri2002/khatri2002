@@ -33,12 +33,12 @@ Passionate about building scalable and impactful applications, I have **1+ years
 **Front-End Development**
 
 <div align="left">
-<img src="https://img.shields.io/badge/HTML-E2E5E6?style=flat-square&logo=html5&logoColor=252526" height=25 style="margin-inline: 5px" />
-<img src="https://img.shields.io/badge/CSS-E2E5E6?style=flat-square&logo=css&logoColor=252526" height=25 style="margin-inline: 5px" />
-<img src="https://img.shields.io/badge/JavaScript-E2E5E6?style=flat-square&logo=javascript&logoColor=252526" height=25 style="margin-inline: 5px" />
-<img src="https://img.shields.io/badge/React-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=25 style="margin-inline: 5px" />
-<img src="https://img.shields.io/badge/React_Native-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=25 style="margin-inline: 5px" />
-<img src="https://img.shields.io/badge/jQuery-E2E5E6?style=flat-square&logo=jquery&logoColor=252526" height=25 style="margin-inline: 5px" />
+<img src="https://img.shields.io/badge/HTML-E2E5E6?style=flat-square&logo=html5&logoColor=252526" height=25 style="margin: 5px" />
+<img src="https://img.shields.io/badge/CSS-E2E5E6?style=flat-square&logo=css&logoColor=252526" height=25 style="margin: 5px" />
+<img src="https://img.shields.io/badge/JavaScript-E2E5E6?style=flat-square&logo=javascript&logoColor=252526" height=25 style="margin: 5px" />
+<img src="https://img.shields.io/badge/React-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=25 style="margin: 5px" />
+<img src="https://img.shields.io/badge/React_Native-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=25 style="margin: 5px" />
+<img src="https://img.shields.io/badge/jQuery-E2E5E6?style=flat-square&logo=jquery&logoColor=252526" height=25 style="margin: 5px" />
 </div>
 
 <br/>
