@@ -5,8 +5,8 @@
 Passionate about building scalable and impactful applications, I have **1+ years of experience** working with **product-based startups** as a full-stack developer. I bring a strong foundation in software development, problem-solving, and system design.
 
 <table>
-<tr>
-<td>
+<tr style="border: none;">
+<td style="border: none;">
 
 - 💡 **Technology Enthusiast** - Dedicated to building impactful and scalable applications.
 - 💻 **Full-Stack Developer** with **1+ year of industry experience**, primarily working with **product-based startups**.
@@ -16,7 +16,7 @@ Passionate about building scalable and impactful applications, I have **1+ years
 - 📩 **Let’s Connect!** If you have an interesting project or collaboration opportunity, feel free to reach out.
 
 </td>
-<td>
+<td style="border: none;">
 <picture>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611u6f0l1rw1aiti7xg2w2gfzonmzjw4z150oc7l091&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </picture>
