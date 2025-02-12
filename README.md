@@ -11,7 +11,7 @@ Passionate about building scalable and impactful applications, I have **1+ years
 - 💡 **Technology Enthusiast** - Dedicated to building impactful and scalable applications.
 - 💻 **Full-Stack Developer** with **1+ year of industry experience**, primarily working with **product-based startups**.
 - 🚀 **Smart India Hackathon 2022 Finalist** - Developed an application aimed at reducing the risk of **Alzheimer's and dementia** in the elderly.
-- 🏆 **Active Contributor on Frontend Mentor** - Reviewed and helped **300+ fellow developers**, ranking among the **Top 50 mentors globally**.
+- 🏆 **Active Contributor on Frontend Mentor** - Reviewed and helped **300+ fellow developers**.
 - 🌍 **Passionate about Open Source & Collaboration** - Always open to working on exciting projects and sharing knowledge.
 - 📩 **Let’s Connect!** If you have an interesting project or collaboration opportunity, feel free to reach out.
 
