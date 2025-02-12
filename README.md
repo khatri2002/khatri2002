@@ -8,7 +8,7 @@ Passionate about building scalable and impactful applications, I have **1+ years
     <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=300px>
 </picture>
 
-<br/> <br/>
+<br/>
 
 - **Technology Enthusiast** - Dedicated to building impactful and scalable applications.
 - **Full-Stack Developer** with **1+ year of industry experience**, primarily working with **product-based startups**.
@@ -17,7 +17,7 @@ Passionate about building scalable and impactful applications, I have **1+ years
 - **Passionate about Open Source & Collaboration** - Always open to working on exciting projects and sharing knowledge.
 - **Let’s Connect!** If you have an interesting project or collaboration opportunity, feel free to reach out.
 
-<br/> <br/> <br/>
+<br/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=khatri2002&label=Profile%20views&color=0e75b6&style=flat" alt="khatri2002" />
