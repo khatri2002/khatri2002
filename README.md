@@ -32,29 +32,35 @@ Passionate about building scalable and impactful applications, I have **1+ years
 
 **Front-End Development**
 
+<div align="left">
 <img src="https://img.shields.io/badge/HTML-E2E5E6?style=flat-square&logo=html5&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/CSS-E2E5E6?style=flat-square&logo=css&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/JavaScript-E2E5E6?style=flat-square&logo=javascript&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/React-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/React_Native-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/jQuery-E2E5E6?style=flat-square&logo=jquery&logoColor=252526" height=25 style="margin-inline: 5px" />
+</div>
 
 <br/>
 
 **Back-End Development**
 
+<div align="left">
 <img src="https://img.shields.io/badge/Python-E2E5E6?style=flat-square&logo=python&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/Django-E2E5E6?style=flat-square&logo=django&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/Flask-E2E5E6?style=flat-square&logo=flask&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/MySQL-E2E5E6?style=flat-square&logo=mysql&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/MongoDB-E2E5E6?style=flat-square&logo=mongodb&logoColor=252526" height=25 style="margin-inline: 5px" />
+</div>
 
 <br/>
 
 **Programming Languages**
 
+<div align="left">
 <img src="https://img.shields.io/badge/C-E2E5E6?style=flat-square&logo=c&logoColor=252526" height=25 style="margin-inline: 5px" />
 <img src="https://img.shields.io/badge/C++-E2E5E6?style=flat-square&logo=c++&logoColor=252526" height=25 style="margin-inline: 5px" />
+</div>
 
 <br />
 
