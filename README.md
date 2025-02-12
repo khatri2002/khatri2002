@@ -33,6 +33,7 @@ Passionate about building scalable and impactful applications, I have **1+ years
 <img src="https://img.shields.io/badge/JavaScript-E2E5E6?style=flat-square&logo=javascript&logoColor=252526" height=30 />
 <img src="https://img.shields.io/badge/React-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=30 />
 <img src="https://img.shields.io/badge/React_Native-E2E5E6?style=flat-square&logo=react&logoColor=252526" height=30 />
+<img src="https://img.shields.io/badge/TypeScript-E2E5E6?style=flat-square&logo=typescript&logoColor=252526" height=30 />
 <img src="https://img.shields.io/badge/jQuery-E2E5E6?style=flat-square&logo=jquery&logoColor=252526" height=30 />
 </div>
 
@@ -65,6 +66,10 @@ Passionate about building scalable and impactful applications, I have **1+ years
 [<img src="https://img.shields.io/badge/Frontend_Mentor-3D53A2?style=flat-square&logo=frontendmentor&logoColor=fff" height=30 />](https://www.frontendmentor.io/profile/khatri2002)
 [<img src="https://img.shields.io/badge/CodePen-131417?style=flat-square&logo=codepen&logoColor=fff" height=30 />](https://codepen.io/Jay-Khatri-the-animator)
 [<img src="https://img.shields.io/badge/Gmail-c71610?style=flat-square&logo=gmail&logoColor=fff" height=30 />](mailto:jaykhatri225@gmail.com)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khatri2002&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
