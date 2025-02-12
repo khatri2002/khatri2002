@@ -8,19 +8,14 @@ Passionate about building scalable and impactful applications, I have **1+ years
     <img align="right" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width=300px>
 </picture>
 
-<br/>
+<br/> <br/>
 
-💡 **Technology Enthusiast** - Dedicated to building impactful and scalable applications.
-
-💻 **Full-Stack Developer** with **1+ year of industry experience**, primarily working with **product-based startups**.
-
-🚀 **Smart India Hackathon 2022 Finalist** - Developed an application aimed at reducing the risk of **Alzheimer's and dementia** in the elderly.
-
-🏆 **Active Contributor on Frontend Mentor** - Reviewed and helped **300+ fellow developers**.
-
-🌍 **Passionate about Open Source & Collaboration** - Always open to working on exciting projects and sharing knowledge.
-
-📩 **Let’s Connect!** If you have an interesting project or collaboration opportunity, feel free to reach out.
+- **Technology Enthusiast** - Dedicated to building impactful and scalable applications.
+- **Full-Stack Developer** with **1+ year of industry experience**, primarily working with **product-based startups**.
+- **Smart India Hackathon 2022 Finalist** - Developed an application aimed at reducing the risk of **Alzheimer's and dementia** in the elderly.
+- **Active Contributor on Frontend Mentor** - Reviewed and helped **300+ fellow developers**.
+- **Passionate about Open Source & Collaboration** - Always open to working on exciting projects and sharing knowledge.
+- **Let’s Connect!** If you have an interesting project or collaboration opportunity, feel free to reach out.
 
 <br/> <br/> <br/>
 
@@ -75,4 +70,4 @@ Passionate about building scalable and impactful applications, I have **1+ years
 
 ## 📚 Currently Learning & Improving
 
-🧠 **Data Structures & Algorithms (DSA)** - Sharpening my problem-solving skills and optimizing solutions to tackle complex challenges.
+- **Data Structures & Algorithms (DSA)** - Sharpening my problem-solving skills and optimizing solutions to tackle complex challenges.
