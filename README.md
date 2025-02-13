@@ -55,7 +55,7 @@ Passionate about building scalable and impactful applications, I have **1+ years
 
 <div align="left">
 <img src="https://img.shields.io/badge/C-E2E5E6?style=flat-square&logo=c&logoColor=252526" height=30 />
-<img src="https://img.shields.io/badge/C++-E2E5E6?style=flat-square&logo=c++&logoColor=252526" height=30 />
+<img src="https://img.shields.io/badge/C++-E2E5E6?style=flat-square&logo=cplusplus&logoColor=252526" height=30 />
 </div>
 
 <br />
