@@ -44,6 +44,7 @@ Most of my professional experience has been in product focused environments wher
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jaykhatri-in/)
 [![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](https://codepen.io/jay-khatri-dev)
 [![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-3D53A2?&logo=frontendmentor&logoColor=fff)](https://www.frontendmentor.io/profile/khatri2002)
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?&logo=gmail&logoColor=fff)](mailto:jaykhatri.codes@gmail.com)
 
 <br />
 
