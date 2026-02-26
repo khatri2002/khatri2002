@@ -2,8 +2,6 @@
     <img src="./assets/images/banner-dark.png" alt="banner" />
 </picture>
 
-🔗 [jaykhatri.me](https://jaykhatri.me)
-
 ## 👋 About Me
 
 I’m a **software developer** with a background in computer science and over two years of professional experience, based in India.
@@ -51,3 +49,11 @@ Most of my professional experience has been in product focused environments wher
 ## 📚 Currently Learning & Improving
 
 - **Data Structures & Algorithms (DSA)** - Sharpening my problem-solving skills and optimizing solutions to tackle complex challenges.
+
+<div style="text-align: center;">
+  This text block is centered.
+</div>
+
+---
+
+Find me at: [jaykhatri.me](https://jaykhatri.me)
