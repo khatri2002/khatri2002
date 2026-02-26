@@ -2,6 +2,8 @@
     <img src="./assets/images/banner-dark.png" alt="banner" />
 </picture>
 
+🔗 [jaykhatri.me](https://jaykhatri.me)
+
 ## 👋 About Me
 
 I’m a **software developer** with a background in computer science and over two years of professional experience, based in India.
