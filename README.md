@@ -30,7 +30,6 @@ Most of my professional experience has been in product focused environments wher
     <img src="https://img.shields.io/badge/TypeScript-E2E5E6?logo=typescript&logoColor=252526" height=30 alt="TypeScript" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-E2E5E6?logo=tailwind-css&logoColor=252526" height=30 alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/Node.js-E2E5E6?logo=node.js&logoColor=252526" height=30 alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-E2E5E6?logo=express&logoColor=252526" height=30 alt="Express.js" />   
     <img src="https://img.shields.io/badge/Python-E2E5E6?logo=python&logoColor=252526" height=30 alt="Python" />   
     <img src="https://img.shields.io/badge/Git_&_GitHub-E2E5E6?logo=github&logoColor=252526" height=30 alt="Git & GitHub" />   
 </div>
@@ -49,10 +48,6 @@ Most of my professional experience has been in product focused environments wher
 ## 📚 Currently Learning & Improving
 
 - **Data Structures & Algorithms (DSA)** - Sharpening my problem-solving skills and optimizing solutions to tackle complex challenges.
-
-<div style="text-align: center;">
-  This text block is centered.
-</div>
 
 ---
 
